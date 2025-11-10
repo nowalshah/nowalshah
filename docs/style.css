@@ -1,0 +1,51 @@
+/* This Controls background, font, and spacing */
+body {
+  font-family: Arial, sans-serif; /* for clean and simple font */
+  background-color: rgb(238, 223, 175); /* for soft beige-yellow */
+  margin: 0;
+  padding: 0;
+}
+
+/* I use main box as a Frame to 
+   Add border, background and space around everything*/
+.mainbox {
+  border: 3px solid goldenrod; /* to gold border frame */
+  background-color: white; /* get neat white background inside */
+  width: 80%;
+  margin: 40px auto; /* centers it */
+  padding: 20px;
+  border-radius: 10px; /* to soft corners */
+  overflow: auto; /* clears float */
+}
+
+/* For Image Styling and to 
+   Make the image appear on the left side neatly*/
+img {
+  width: 280px; /* This is the image size */
+  height: auto;
+  border: 2px solid goldenrod; /* The small gold frame */
+  border-radius: 10px;
+  float: left; /* This moves it to the left side */
+  margin-right: 20px; /* The space between image and text */
+  margin-bottom: 10px;
+}
+
+/* The Headings and Paragraphs that
+   Adds color and spacing to text */
+h1 {
+  color: darkgoldenrod;
+}
+
+h2 {
+  color: #d14402;
+  margin-top: 20px;
+}
+
+p {
+  color: #333;
+  line-height: 1.5;
+  font-size: 16px;
+}
+.info {
+  overflow: auto;
+}
