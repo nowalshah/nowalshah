@@ -7,16 +7,16 @@
 
 ###  About Me
 
-- 🎓 Diploma in Computer Programming (Sep 2025 – Apr 2027)
-- 🏆 Dean's Honour List — March 2026
-- 👩‍💻 Led a 4-person dev team and delivered a semester-long project on time
-- 🔐 Pursuing Google Cybersecurity Professional Certificate
-- 💬 Fluent in English, Urdu, Hindi & Punjabi
-- 📬 Reach me at: nowalshah123@gmail.com
+-  Diploma in Computer Programming (Sep 2025 – Apr 2027)
+-  Dean's Honour List — March 2026
+-  Led a 4-person dev team and delivered a semester-long project on time
+-  Pursuing Google Cybersecurity Professional Certificate
+-  Fluent in English, Urdu, Hindi & Punjabi
+-  Reach me at: nowalshah123@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -31,7 +31,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Live |
 |---|---|---|
@@ -40,15 +40,14 @@
 | 🍽️ [Recipe App](https://github.com/nowalshah/recipe-app-assignment) | Dynamic recipe manager with real-time DOM updates — JS/HTML/CSS | [🔗 Live Demo](https://recipe-app-assignment-navy.vercel.app) |
 ---
 
-### 🎯 Currently
+###  Currently
 
-- 🌱 Learning: React, Next.js & Cybersecurity
-- 🔨 Building: Real-world web apps for my portfolio
-- 📚 Studying: Google Cybersecurity Professional Certificate
-- 👀 Looking for: Summer 2026 internship in the GTA
-- ⚡ Fun fact: I built a live internship tracker so GTA students can add jobs, track applied/rejected/accepted status and never lose track of opportunities---
+-  Learning: React, Next.js & Cybersecurity
+-  Building: Real-world web apps for my portfolio
+-  Studying: Google Cybersecurity Professional Certificate
+-  Looking for: Summer 2026 internship in the GTA
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-nowal-shah-4160962b5/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nowalshah)
