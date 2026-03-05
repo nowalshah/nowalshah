@@ -54,4 +54,4 @@
 
 ---
 
-*Open to Summer 2026 internship opportunities in Software Development, IT Support & Cybersecurity across the GTA* 🌟
+*Open to Summer 2026 internship opportunities in Software Development, IT Support & Cybersecurity across the GTA* 
