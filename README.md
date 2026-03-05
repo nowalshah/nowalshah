@@ -36,8 +36,8 @@
 | Project | Description | Live |
 |---|---|---|
 | 🌟 [GTA Internship Tracker](https://github.com/nowalshah/summer-2026-internship-tracker) | Browse & track GTA internships in real time — React + Next.js | [🔗 Live Demo](https://summer-2026-internship-tracker.vercel.app) |
-| 🧠 [Brain Game](https://github.com/nowalshah/brain-game-javascript) | Interactive browser-based puzzle & memory game — Vanilla JS | — |
-| 🍽️ [Recipe App](https://github.com/nowalshah/recipe-app-assignment) | Dynamic recipe manager with real-time DOM updates — JS/HTML/CSS | — |
+| 🧠 [Brain Game](https://github.com/nowalshah/brain-game-javascript) | Interactive browser-based puzzle & memory game — Vanilla JS [🔗 Live Demo](brain-game-javascript-5pgo.vercel.app)  |
+| 🍽️ [Recipe App](https://github.com/nowalshah/recipe-app-assignment) | Dynamic recipe manager with real-time DOM updates — JS/HTML/CSS [[🔗 Live Demo](brain-game-javascript-5pgo.vercel.app)  |
 
 ---
 
