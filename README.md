@@ -1,11 +1,11 @@
-# Hi, I'm Syeda Nowal Shah👋
+# Hi, I'm Syeda Nowal Shah
 
-**Computer Programming Student @ Humber Polytechnic** | Dean's Honour List 🏆  
+**Computer Programming Student @ Humber Polytechnic** | Dean's Honour List  
 📍 Brampton, ON | Seeking Summer 2026 Internship
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 Diploma in Computer Programming (Sep 2025 – Apr 2027)
 - 🏆 Dean's Honour List — March 2026
