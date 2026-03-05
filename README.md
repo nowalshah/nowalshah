@@ -41,12 +41,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Currently
 
-![Nowal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nowalshah&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nowalshah&layout=compact&theme=tokyonight&hide_border=true)
-
----
+- 🌱 Learning: React, Next.js & Cybersecurity
+- 🔨 Building: Real-world web apps for my portfolio
+- 📚 Studying: Google Cybersecurity Professional Certificate
+- 👀 Looking for: Summer 2026 internship in the GTA
+- ⚡ Fun fact: I built a live internship tracker so GTA students can add jobs, track applied/rejected/accepted status and never lose track of opportunities---
 
 ### 🤝 Connect With Me
 
