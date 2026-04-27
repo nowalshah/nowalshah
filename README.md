@@ -1,8 +1,7 @@
 # Hi, I'm Syeda Nowal Shah
 
 **Computer Programming Student @ Humber Polytechnic** | Dean's Honour List  
-📍 Brampton, ON | Seeking Summer 2026 Internship
-
+📍 Brampton, ON
 ---
 
 ###  About Me
@@ -12,7 +11,6 @@
 -  Led a 4-person dev team and delivered a semester-long project on time
 -  Pursuing Google Cybersecurity Professional Certificate
 -  Fluent in English, Urdu, Hindi & Punjabi
--  Reach me at: nowalshah123@gmail.com
 
 ---
 
@@ -45,7 +43,6 @@
 -  Learning: React, Next.js & Cybersecurity
 -  Building: Real-world web apps for my portfolio
 -  Studying: Google Cybersecurity Professional Certificate
--  Looking for: Summer 2026 internship in the GTA
 
 ###  Connect With Me
 
@@ -54,4 +51,3 @@
 
 ---
 
-*Open to Summer 2026 internship opportunities in Software Development, IT Support & Cybersecurity across the GTA* 
