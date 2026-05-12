@@ -7,7 +7,7 @@
 ###  About Me
 
 -  Diploma in Computer Programming (Sep 2025 – Apr 2027)
--  Dean's Honour List — Fall 2025
+-  Dean's Honour List — Fall 2025 & Winter 2026
 -  Led a 4-person dev team and delivered a semester-long project on time
 -  Pursuing Google Cybersecurity Professional Certificate
 -  Fluent in English, Urdu, Hindi & Punjabi
